@@ -1,4 +1,4 @@
-public class Nomes Jan-Mar {
+public class Nomes JanMar {
     public static void main(String[] args) {
         System.out.println("Luiza Hackenhaar Naziazeno ");
         System.out.println("João Victor Farias de Souza");
